@@ -1,13 +1,13 @@
 /*   STEP 1   */
 export const leagueID = "1002680051932028928"; // your league ID
-export const leagueName = "[de]league"; // your league name
+export const leagueName = "de[league]"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Home of [de]league Fantasy Football - the offical league of DeGods & y00ts communities .</p>
+  <p>Home of de[league] Fantasy Football - the offical league of DeGods & y00ts communities .</p>
 
 `;
 
