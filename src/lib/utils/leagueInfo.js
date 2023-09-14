@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Home of [de]league Fantasy Football - the offical league of DeGods & y00ts community .</p>
+  <p>Home of [de]league Fantasy Football - the offical league of DeGods & y00ts communities .</p>
 
 `;
 
